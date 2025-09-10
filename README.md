@@ -3,7 +3,7 @@
 In the digital age with tons of distractions and things to do, it is easy to get lost in endless tasklists and digital apps.
 
 ## Team Members
-- [Arda BAKICI](https://github.com/ArdaBakici)
+- [Arda Bakici](https://github.com/ArdaBakici)
 - [Siddhanta Paudel](https://github.com/PaudelSiddhanta)
 - [Srijan Sthapit](https://github.com/Srijan3141)
 
