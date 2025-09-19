@@ -6,6 +6,7 @@ In the digital age with tons of distractions and things to do, it is easy to get
 - [Arda Bakici](https://github.com/ArdaBakici)
 - [Siddhanta Paudel](https://github.com/PaudelSiddhanta)
 - [Srijan Sthapit](https://github.com/Srijan3141)
+- [William Chan](https://github.com/wc2184)
 
 ## What is this?
 Taskbank is an web based todo app which is based on GTD principles. Just add tasks to your to Taskbank and it will automatically create daily task lists for you.
